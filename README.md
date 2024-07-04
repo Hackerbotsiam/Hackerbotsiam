@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ohi Yea Siam
 #### Ethical hacker and Programmer. 
-![Ethical hacker and Programmer. ]
 
 I’m an ethical hacker and programmer passionate about securing systems and solving complex problems through code. With a solid foundation in cybersecurity and programming, I specialize in identifying vulnerabilities and crafting solutions to protect digital assets. My skills include penetration testing, vulnerability assessment, and creating robust software solutions. I’m committed to ethical practices and continuous learning, always staying ahead of emerging threats and technologies to ensure the highest level of security and efficiency.
 
