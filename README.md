@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ohi Yea Siam
-#### Ethical hacker and Programmer. 
+#### Web Developer and Programmer. 
 
 I’m a passionate Web Developer with skills in HTML, CSS, JavaScript, Python, React, and PostgreSQL. I enjoy building responsive, user-friendly, and secure web applications that deliver real value. My focus is on writing clean and efficient code while continuously learning modern tools and technologies to improve my craft. I aim to grow as a professional developer by creating impactful projects and contributing to the tech community.
 
