@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Ohi Yea Siam
 #### Ethical hacker and Programmer. 
 
-I’m an ethical hacker and programmer passionate about securing systems and solving complex problems through code. With a solid foundation in cybersecurity and programming, I specialize in identifying vulnerabilities and crafting solutions to protect digital assets. My skills include penetration testing, vulnerability assessment, and creating robust software solutions. I’m committed to ethical practices and continuous learning, always staying ahead of emerging threats and technologies to ensure the highest level of security and efficiency.
+I’m a passionate Web Developer with skills in HTML, CSS, JavaScript, Python, React, and PostgreSQL. I enjoy building responsive, user-friendly, and secure web applications that deliver real value. My focus is on writing clean and efficient code while continuously learning modern tools and technologies to improve my craft. I aim to grow as a professional developer by creating impactful projects and contributing to the tech community.
 
-Skills: Linux/Python/java 
+Skills: HTML/Css/js/Python/Postgresql/REACT 
 
 - 🔭 I’m currently working on as a university student 
-- 🌱 I’m currently learning ethical hacking and programming. 
+- 🌱 I’m currently learning web development and programming. 
 - 👯 I’m looking to collaborate on with github. 
 - 🤔 I’m looking for help with for anyone. 
 - 💬 Ask me about my goal. 
